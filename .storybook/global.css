@@ -1,0 +1,16 @@
+#stories {
+  font-size: 28px;
+  line-height: 32px;
+  margin: 0;
+  font-weight: 900;
+  color: rgb(51, 51, 51);
+  border-bottom: 0;
+}
+
+@media (min-width: 600px) {
+  #stories {
+    font-size: 32px;
+    line-height: 36px;
+    margin-bottom: 2rem;
+  }
+}
